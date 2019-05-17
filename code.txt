@@ -1,0 +1,10 @@
+#include<iostream>
+#include<cstring>
+using namespace std;
+int main()
+{ string s1 ,s2, s;
+ cout<<"enter 2 strings"<<endl;
+ cin>>s1>>s2;
+ s=s1+s2;
+cout<<"added string : "<<s;
+}
