@@ -15,4 +15,3 @@ for(i=0;i<n;i++){
 }
 if(i==n){printf("The element is not prensent");}
 return 0;}
-
